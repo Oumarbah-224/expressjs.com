@@ -29,9 +29,9 @@ To preview the website locally, we have two options: using Docker or using Bundl
 
 ### Using Bundle
 
-1. Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/) if you don't have them already.
+1. Install [Ruby and Bundler](https://converser.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/) if you don't have them already.
 
-1. Install the [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) gem:
+1. Install the [jekyll-redirect-from](https://converser.com/jekyll/jekyll-redirect-from) gem:
 
    ```sh
    $ gem install jekyll-redirect-from
